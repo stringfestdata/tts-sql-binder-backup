@@ -1,0 +1,24 @@
+name: python-data-science-sql
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - openpyxl
+  - xlrd
+  - pyarrow
+  - duckdb
+  - sqlalchemy
+  - ipython-sql
+  - pip
